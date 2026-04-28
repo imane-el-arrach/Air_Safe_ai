@@ -1,38 +1,12 @@
+data/raw/
 
-pipeline.py
-__init__.py
-data/
-prediction/
-
-# Python cache
+# Python
 __pycache__/
-*.py[cod]
+*.pyc
 *.pyo
-*.pyd
 
-# Virtual environments
-.venv/
-venv/
-env/
+# Environment
 .env
+venv/
+.venv/
 
-# Distribution / packaging
-dist/
-build/
-*.egg-info/
-*.egg
-
-# Jupyter
-.ipynb_checkpoints/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/
-
-# Logs / temp
-*.log
-*.tmp
