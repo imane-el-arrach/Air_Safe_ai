@@ -1,10 +1,4 @@
-
-pipeline.py
-__init__.py
-data/
-prediction/
-
-# Python cache
+#  Python cache
 __pycache__/
 *.py[cod]
 *.pyo
